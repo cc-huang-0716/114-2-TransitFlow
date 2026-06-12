@@ -1,0 +1,45 @@
+[
+  { "schedule_id": "NR_SCH01", "station_id": "NR01", "platform_number": "1" },
+  { "schedule_id": "NR_SCH01", "station_id": "NR02", "platform_number": "1" },
+  { "schedule_id": "NR_SCH01", "station_id": "NR03", "platform_number": "1" },
+  { "schedule_id": "NR_SCH01", "station_id": "NR04", "platform_number": "1" },
+  { "schedule_id": "NR_SCH01", "station_id": "NR05", "platform_number": "1" },
+
+  { "schedule_id": "NR_SCH02", "station_id": "NR05", "platform_number": "2" },
+  { "schedule_id": "NR_SCH02", "station_id": "NR04", "platform_number": "2" },
+  { "schedule_id": "NR_SCH02", "station_id": "NR03", "platform_number": "2" },
+  { "schedule_id": "NR_SCH02", "station_id": "NR02", "platform_number": "2" },
+  { "schedule_id": "NR_SCH02", "station_id": "NR01", "platform_number": "2" },
+
+  { "schedule_id": "NR_SCH03", "station_id": "NR01", "platform_number": "3" },
+  { "schedule_id": "NR_SCH03", "station_id": "NR06", "platform_number": "3" },
+  { "schedule_id": "NR_SCH03", "station_id": "NR07", "platform_number": "3" },
+  { "schedule_id": "NR_SCH03", "station_id": "NR08", "platform_number": "3" },
+  { "schedule_id": "NR_SCH03", "station_id": "NR09", "platform_number": "3" },
+  { "schedule_id": "NR_SCH03", "station_id": "NR10", "platform_number": "3" },
+
+  { "schedule_id": "NR_SCH04", "station_id": "NR10", "platform_number": "4" },
+  { "schedule_id": "NR_SCH04", "station_id": "NR09", "platform_number": "4" },
+  { "schedule_id": "NR_SCH04", "station_id": "NR08", "platform_number": "4" },
+  { "schedule_id": "NR_SCH04", "station_id": "NR07", "platform_number": "4" },
+  { "schedule_id": "NR_SCH04", "station_id": "NR06", "platform_number": "4" },
+  { "schedule_id": "NR_SCH04", "station_id": "NR01", "platform_number": "4" },
+
+  { "schedule_id": "NR_SCH05", "station_id": "NR01", "platform_number": "5" },
+  { "schedule_id": "NR_SCH05", "station_id": "NR03", "platform_number": "5" },
+  { "schedule_id": "NR_SCH05", "station_id": "NR05", "platform_number": "5" },
+
+  { "schedule_id": "NR_SCH06", "station_id": "NR05", "platform_number": "6" },
+  { "schedule_id": "NR_SCH06", "station_id": "NR03", "platform_number": "6" },
+  { "schedule_id": "NR_SCH06", "station_id": "NR01", "platform_number": "6" },
+
+  { "schedule_id": "NR_SCH07", "station_id": "NR01", "platform_number": "5" },
+  { "schedule_id": "NR_SCH07", "station_id": "NR07", "platform_number": "5" },
+  { "schedule_id": "NR_SCH07", "station_id": "NR09", "platform_number": "5" },
+  { "schedule_id": "NR_SCH07", "station_id": "NR10", "platform_number": "5" },
+
+  { "schedule_id": "NR_SCH08", "station_id": "NR10", "platform_number": "6" },
+  { "schedule_id": "NR_SCH08", "station_id": "NR09", "platform_number": "6" },
+  { "schedule_id": "NR_SCH08", "station_id": "NR07", "platform_number": "6" },
+  { "schedule_id": "NR_SCH08", "station_id": "NR01", "platform_number": "6" }
+]

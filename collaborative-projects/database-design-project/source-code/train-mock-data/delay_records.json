@@ -1,0 +1,17 @@
+[
+  { "delay_id": "DL001", "schedule_id": "NR_SCH01", "travel_date": "2026-05-02", "delay_minutes": 18, "reason": "Signalling fault between NR02 and NR03" },
+  { "delay_id": "DL002", "schedule_id": "NR_SCH01", "travel_date": "2026-05-14", "delay_minutes": 35, "reason": "Overrunning engineering works" },
+  { "delay_id": "DL003", "schedule_id": "NR_SCH01", "travel_date": "2026-06-03", "delay_minutes": 12, "reason": "Awaiting late-running stock from previous service" },
+  { "delay_id": "DL004", "schedule_id": "NR_SCH02", "travel_date": "2026-04-22", "delay_minutes": 20, "reason": "Passenger incident at NR04" },
+  { "delay_id": "DL005", "schedule_id": "NR_SCH02", "travel_date": "2026-05-30", "delay_minutes": 45, "reason": "Bad weather — high winds causing speed restrictions" },
+  { "delay_id": "DL006", "schedule_id": "NR_SCH03", "travel_date": "2026-04-10", "delay_minutes": 22, "reason": "Track obstruction near NR07" },
+  { "delay_id": "DL007", "schedule_id": "NR_SCH03", "travel_date": "2026-05-19", "delay_minutes": 15, "reason": "Signal failure at NR06" },
+  { "delay_id": "DL008", "schedule_id": "NR_SCH04", "travel_date": "2026-04-28", "delay_minutes": 30, "reason": "Overrunning engineering works at NR09" },
+  { "delay_id": "DL009", "schedule_id": "NR_SCH04", "travel_date": "2026-06-05", "delay_minutes": 10, "reason": "Awaiting late-running stock" },
+  { "delay_id": "DL010", "schedule_id": "NR_SCH05", "travel_date": "2026-05-07", "delay_minutes": 8,  "reason": "Minor signalling delay at NR01 departure" },
+  { "delay_id": "DL011", "schedule_id": "NR_SCH05", "travel_date": "2026-05-27", "delay_minutes": 25, "reason": "Trespass on the line between NR03 and NR05" },
+  { "delay_id": "DL012", "schedule_id": "NR_SCH06", "travel_date": "2026-04-15", "delay_minutes": 40, "reason": "Bad weather — heavy snowfall" },
+  { "delay_id": "DL013", "schedule_id": "NR_SCH07", "travel_date": "2026-05-09", "delay_minutes": 20, "reason": "Signal failure at NR07" },
+  { "delay_id": "DL014", "schedule_id": "NR_SCH08", "travel_date": "2026-05-21", "delay_minutes": 14, "reason": "Track inspection near NR09" },
+  { "delay_id": "DL015", "schedule_id": "NR_SCH02", "travel_date": "2026-06-10", "delay_minutes": 55, "reason": "Overrunning engineering works — line speed restriction" }
+]
