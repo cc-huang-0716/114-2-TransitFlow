@@ -1,4 +1,4 @@
-# README — TransitFlow Contribution Summary
+# TransitFlow Contribution Summary
 
 ## Overview
 
